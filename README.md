@@ -1,4 +1,4 @@
-## Olá, eu sou a Guilherme Ceolin Devigili
+## Olá, eu sou o Guilherme Ceolin Devigili
 Estudante de Desenvolvimento Software | Trybe!
 <div align="center">
   <a href="https://github.com/guilherme-devigili">
