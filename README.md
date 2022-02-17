@@ -1,9 +1,9 @@
 ## Olá, eu sou o Guilherme Ceolin Devigili
 Estudante de Desenvolvimento Software | Trybe!
 <div align="center">
-  <a href="https://github.com/guilherme-devigili">
+  <a href="https://github.com/guilhermecd15">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermecd15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-devigili&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecd15&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
